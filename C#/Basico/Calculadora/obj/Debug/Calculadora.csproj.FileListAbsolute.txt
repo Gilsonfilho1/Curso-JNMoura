@@ -1,0 +1,7 @@
+C:\Curso Moura\C#\Basico\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Curso Moura\C#\Basico\Calculadora\bin\Debug\Calculadora.exe
+C:\Curso Moura\C#\Basico\Calculadora\bin\Debug\Calculadora.pdb
+C:\Curso Moura\C#\Basico\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Curso Moura\C#\Basico\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Curso Moura\C#\Basico\Calculadora\obj\Debug\Calculadora.exe
+C:\Curso Moura\C#\Basico\Calculadora\obj\Debug\Calculadora.pdb

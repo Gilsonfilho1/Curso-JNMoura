@@ -1,0 +1,7 @@
+C:\Curso Moura\C#\Atividade01\Atividade01\obj\Debug\Atividade01.csproj.AssemblyReference.cache
+C:\Curso Moura\C#\Atividade01\Atividade01\obj\Debug\Atividade01.csproj.CoreCompileInputs.cache
+C:\Curso Moura\C#\Atividade01\Atividade01\bin\Debug\Atividade01.exe.config
+C:\Curso Moura\C#\Atividade01\Atividade01\bin\Debug\Atividade01.exe
+C:\Curso Moura\C#\Atividade01\Atividade01\bin\Debug\Atividade01.pdb
+C:\Curso Moura\C#\Atividade01\Atividade01\obj\Debug\Atividade01.exe
+C:\Curso Moura\C#\Atividade01\Atividade01\obj\Debug\Atividade01.pdb

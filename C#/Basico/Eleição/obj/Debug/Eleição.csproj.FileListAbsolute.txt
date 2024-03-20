@@ -1,0 +1,7 @@
+C:\Curso Moura\C#\Basico\Eleição\bin\Debug\Eleição.exe.config
+C:\Curso Moura\C#\Basico\Eleição\bin\Debug\Eleição.exe
+C:\Curso Moura\C#\Basico\Eleição\bin\Debug\Eleição.pdb
+C:\Curso Moura\C#\Basico\Eleição\obj\Debug\Eleição.csproj.AssemblyReference.cache
+C:\Curso Moura\C#\Basico\Eleição\obj\Debug\Eleição.csproj.CoreCompileInputs.cache
+C:\Curso Moura\C#\Basico\Eleição\obj\Debug\Eleição.exe
+C:\Curso Moura\C#\Basico\Eleição\obj\Debug\Eleição.pdb
