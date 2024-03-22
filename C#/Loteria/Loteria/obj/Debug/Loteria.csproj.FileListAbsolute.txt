@@ -1,7 +1,0 @@
-C:\Curso Moura\C#\Loteria\Loteria\obj\Debug\Loteria.csproj.AssemblyReference.cache
-C:\Curso Moura\C#\Loteria\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
-C:\Curso Moura\C#\Loteria\Loteria\bin\Debug\Loteria.exe.config
-C:\Curso Moura\C#\Loteria\Loteria\bin\Debug\Loteria.exe
-C:\Curso Moura\C#\Loteria\Loteria\bin\Debug\Loteria.pdb
-C:\Curso Moura\C#\Loteria\Loteria\obj\Debug\Loteria.exe
-C:\Curso Moura\C#\Loteria\Loteria\obj\Debug\Loteria.pdb
