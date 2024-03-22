@@ -1,0 +1,7 @@
+C:\Curso Moura\C#\Basico\MediaAlunos\bin\Debug\MediaAlunos.exe.config
+C:\Curso Moura\C#\Basico\MediaAlunos\bin\Debug\MediaAlunos.exe
+C:\Curso Moura\C#\Basico\MediaAlunos\bin\Debug\MediaAlunos.pdb
+C:\Curso Moura\C#\Basico\MediaAlunos\obj\Debug\MediaAlunos.csproj.AssemblyReference.cache
+C:\Curso Moura\C#\Basico\MediaAlunos\obj\Debug\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\Curso Moura\C#\Basico\MediaAlunos\obj\Debug\MediaAlunos.exe
+C:\Curso Moura\C#\Basico\MediaAlunos\obj\Debug\MediaAlunos.pdb
