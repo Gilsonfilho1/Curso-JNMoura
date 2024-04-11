@@ -1,0 +1,7 @@
+C:\Curso Moura\C#\Basico\Pesca\bin\Debug\Pesca.exe.config
+C:\Curso Moura\C#\Basico\Pesca\bin\Debug\Pesca.exe
+C:\Curso Moura\C#\Basico\Pesca\bin\Debug\Pesca.pdb
+C:\Curso Moura\C#\Basico\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Curso Moura\C#\Basico\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Curso Moura\C#\Basico\Pesca\obj\Debug\Pesca.exe
+C:\Curso Moura\C#\Basico\Pesca\obj\Debug\Pesca.pdb
